@@ -1,3 +1,5 @@
 # PowerBI
-![Image Alt Text](Image.png)
-![Super Store Dashboard](Image.png)
+
+
+
+![Alt Text](Image.png)
