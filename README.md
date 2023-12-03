@@ -28,13 +28,4 @@ The dataset used for this Power BI dashboard is the Super Sales Store dataset. I
 
 The Super Sales Store dataset used in this project is available in the provided CSV file.
 
-## Contributors
-
-- Niranjan Hiremath
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
